@@ -1,0 +1,15 @@
+Results of Two-Sample T-Test:
+
+T-statistic: -1.6349999934600006
+
+The t-statistic of -1.63 indicates the direction and magnitude of the difference between the two groups (frail and non-frail participants). A negative t-statistic suggests that the mean grip strength of the frail group is lower than that of the non-frail group.
+
+P-value: 0.1415730416628566
+
+The p-value of 0.141 is greater than the common significance level of 0.05. This means you fail to reject the null hypothesis. In simpler terms, there is not enough statistical evidence to suggest that there is a significant difference in mean grip strength between frail and non-frail participants.
+
+
+Conclusion:
+Based on your results:
+
+No Significant Difference: Since the p-value exceeds 0.05, you conclude that the difference in mean grip strength between the frail and non-frail groups is not statistically significant. This implies that any observed difference could likely be due to random variation rather than a true effect.
